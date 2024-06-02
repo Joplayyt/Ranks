@@ -35,7 +35,7 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 | Green |  |
 | Helper |  |
 | Manager |  |
-| Media |  |
+| Media > Content |  |
 | Mod |  |
 | Modlarge |  |
 | Mvp |  |
