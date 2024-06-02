@@ -52,7 +52,7 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 | Vip+ |  |
 | Yellow |  |
 | Youtube |  |
-| Member |  |
+| Member > PLayer |  |
 
 
 
