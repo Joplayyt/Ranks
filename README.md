@@ -22,7 +22,7 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 | Rank             | Symbol                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Admin  |  |
-| Blue   |  |
+| Blue > Laal |  |
 | Builder |  |
 | Designer |  |
 | Dev |  |
