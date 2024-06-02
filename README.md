@@ -33,7 +33,7 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 | Event staff > Warrior |  |
 | God |  |
 | Green |  |
-| Helper |  |
+| Helper > Guardian |  |
 | Manager |  |
 | Media > Content |  |
 | Mod |  |
